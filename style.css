@@ -1,0 +1,6 @@
+[class^="col"]{
+    background-color: hsla(300, 30%, 60%, .75);
+    border-width: 1px;
+    border-style: solid;
+    border-color: hsla(300, 30%, 70%, 1) hsla(300, 30%, 70%, 1) hsla(300, 30%, 60%, 1) hsla(300, 30%, 60%, 1);
+}
